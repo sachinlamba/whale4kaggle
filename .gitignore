@@ -1,3 +1,6 @@
 test
 train
 inputGeneratedPerImage
+humpback-whale-identification/
+humpback-whale-identification*.*
+.ipynb_checkpoints/*

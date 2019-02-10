@@ -1,0 +1,9 @@
+tensorflow=1.10
+keras==2.1.6
+opencv-python
+matplotlib
+scipy
+numpy
+sklearn
+pillow
+pandas
