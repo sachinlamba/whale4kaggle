@@ -1,6 +1,8 @@
 test
 train
+train_resize
 inputGeneratedPerImage
 humpback-whale-identification/
 humpback-whale-identification*.*
 .ipynb_checkpoints/*
+.vscode
